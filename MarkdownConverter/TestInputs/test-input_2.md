@@ -1,14 +1,4 @@
-﻿# Sample Document
-
-Hello!
-
-This is sample markdown for the [Mailchimp](https://www.mailchimp.com) homework assignment.
-
-
-
-
-
-# Header one
+﻿# Header one
 
 Hello there
 
@@ -20,3 +10,6 @@ What's going on?
 This is a paragraph [with an inline link](http://google.com). Neat, eh?
 
 ## This is a header [with a link](http://yahoo.com)
+```
+
+Would convert to the following HTML:
