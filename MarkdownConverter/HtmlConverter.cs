@@ -61,7 +61,7 @@ namespace MarkdownConverter.Converter
 		#endregion
 
 		#region Identify Tag
-		Tag IdentifyTagType(string line)
+		public Tag IdentifyTagType(string line)
 		{
 			TagTester tester = new TagTester();
 			Tag tag = new Tag
